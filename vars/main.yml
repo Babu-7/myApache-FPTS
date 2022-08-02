@@ -1,0 +1,3 @@
+---
+# vars file for myapache-FPTS
+package_name: httpd
